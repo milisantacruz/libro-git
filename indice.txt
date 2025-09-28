@@ -1,3 +1,4 @@
 capítulo 1: Introduccion a Git
 capítulo 2: Flujo de trabajo básico
-capítulo 3: Repositorios remotos
+capítulo 3: Gestión de ramas
+capítulo 4: Repositorios remotos
